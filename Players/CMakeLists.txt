@@ -3,7 +3,7 @@ project(Players)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Players main.cpp
+add_executable(Players
         Archer.h
         CharacterRole.h
         CharacterType.h
