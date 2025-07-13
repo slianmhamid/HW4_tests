@@ -1,0 +1,3 @@
+C:/Users/PC/Downloads/HW4_tests/Players/cmake-build-debug/CMakeFiles/Players.dir
+C:/Users/PC/Downloads/HW4_tests/Players/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Downloads/HW4_tests/Players/cmake-build-debug/CMakeFiles/rebuild_cache.dir
