@@ -3,7 +3,7 @@ project(mtam_HW4)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(mtam_HW4 main.cpp
+add_executable(mtam_HW4
         Event.h
         Encounter.h
         SpecialEvents.h
