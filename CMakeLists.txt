@@ -3,7 +3,7 @@ project(MatamStory C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(MatamStory main.c
+add_executable(MatamStory
         MatamStory.h
         MatamStory.cpp
         Utilities.h
